@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ServerKiller245.aternos.me",
-    "port": 39437,
+    "ip": "NotSoStableSmp-pxP9.aternos.me",
+    "port": 47472,
     "version": "1.21.11",.
     "try-creative": false
   },
@@ -38,8 +38,8 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "auto-reconnect-delay": 20,
+    "max-reconnect-delay": 50
   },
   "movement": {
     "enabled": true,
